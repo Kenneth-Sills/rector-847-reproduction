@@ -1,0 +1,14 @@
+{
+    "name": "kesills/rector-847-reproduction",
+    "type": "project",
+    "require-dev": {
+        "rector/rector": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Kenneth Sills",
+            "email": "kenneth.sills@gleim.com"
+        }
+    ],
+    "require": {}
+}
